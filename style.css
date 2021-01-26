@@ -1,0 +1,26 @@
+.aa{
+    font-family: 'Fredoka One', cursive;
+    width: 30%;
+    border: solid;
+}
+.a1{
+    color: rgb(46, 46, 177);
+}
+.a{
+    color: coral;
+}
+.b{
+    color: cornflowerblue;
+}
+#a{
+    color: darkgray;
+    width: 40%;
+}
+#b{
+    width: 35%;
+}
+.b1{
+    border: solid;
+
+    float: left;
+}
